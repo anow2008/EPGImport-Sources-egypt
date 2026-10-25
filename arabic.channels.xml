@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <sources>
 	<mappings>
 		<channel name="arabic.channels.xml">
-			<url>https://raw.githubusercontent.com/USERNAME/arabic-epg/main/arabic.channels.xml</url>
+			<url>https://raw.githubusercontent.com/anow2008/EPGImport-Sources-egypt/main/arabic.channels.xml</url>
 		</channel>
 	</mappings>
 	<sourcecat sourcecatname="Arabic EPG (epgshare01)">
