@@ -7,10 +7,6 @@
 	</mappings>
 	<sourcecat sourcecatname="Arabic EPG (epgshare01)">
 		<source type="gen_xmltv" channels="arabic.channels.xml">
-			<description>Arabic - epgshare01 EG1</description>
-			<url>https://epgshare01.online/epgshare01/epg_ripper_EG1.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" channels="arabic.channels.xml">
 			<description>Arabic - epgshare01 AE1</description>
 			<url>https://epgshare01.online/epgshare01/epg_ripper_AE1.xml.gz</url>
 		</source>
